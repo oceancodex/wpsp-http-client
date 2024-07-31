@@ -1,13 +1,13 @@
 {
 	"name": "oceancodex/wpsp-http-client",
-	"version": "8.0.0",
+	"version": "7.4.0",
 	"description": "WordPress Starter Plugin - HTTP Client",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.0",
-		"symfony/http-client": "^v6.0.20"
+		"php": "^7.4",
+		"symfony/http-client": "^v5.4.42"
 	},
 	"config": {
 		"sort-packages": true
